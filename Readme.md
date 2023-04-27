@@ -11,7 +11,7 @@
 3. <a href="https://www.eleuther.ai/">EleutherAI</a>: A community-driven organization that is working to create an open-source alternative to GPT-3, called GPT-Neo.
 4. <a href="https://inferkit.com/">InferKit</a>: An AI-powered writing tool that uses GPT-2 to generate text based on user prompts.
 5. <a href="https://www.copy.ai/">Copy.ai</a>: A writing assistant that uses GPT-3 to help users generate content such as ads, emails, and social media posts.
-6. <a href="https://talktotransformer.com/">: Talk to Transformer</a>A website that uses GPT-2 to generate text based on user prompts.
+6. <a href="https://talktotransformer.com/">Talk to Transformer</a>: A website that uses GPT-2 to generate text based on user prompts.
 7. <a href="https://replika.ai/">Microsoft Visual ChatGPT</a>: A tool for building conversational agents with natural language processing and machine learning capabilities.
 8. <a href="https://github.com/yetone/openai-translator/">YetOne/OpenAI Translator</a>: An open-source tool that uses GPT models to translate text between multiple languages
 9. <a href="https://github.com/Chanzhaoyu/chatgpt-web">Chanzhaoyu/ChatGPT-Web</a>: A web-based application that generates human-like responses to user input using GPT models.
@@ -20,7 +20,7 @@
 12. <a href="https://github.com/Kaixindelele/ChatPaper">Kaixindelele/ChatPaper</a>: An open-source tool that generates long-form text responses to user input using GPT models.
 13. <a href="https://github.com/DDiu8081/ChatGPT-Demo/">JosStorer/ChatGPTBox</a>: An application that generates text-based responses using GPT models for conversational agents.
 14. <a href="https://github.com/zhayujie/ChatGPT-on-WeChat">Zhayujie/ChatGPT-on-WeChat</a>: An application that generates text-based responses using GPT models for conversational agents.
-15. <a href="https://github.com/Yet-One-Yet-One/Bob-Plugin-OpenAI-Translator">: YetOne/Bob-Plugin-OpenAI-Translator</a>A Bob plugin that provides a CLI for using GPT models to translate text between multiple languages..
+15. <a href="https://github.com/Yet-One-Yet-One/Bob-Plugin-OpenAI-Translator">YetOne/Bob-Plugin-OpenAI-Translator</a>: A Bob plugin that provides a CLI for using GPT models to translate text between multiple languages.
 16. <a href="https://github.com/vincelwt/ChatGPT-Mac/">Vincelwt/ChatGPT-Mac</a>: A macOS application that generates text-based responses using GPT models for conversational agents.
 17. <a href="https://github.com/mpociot/chatgpt-vscode">Mpociot/ChatGPT-VSCode</a>: A VSCode extension that provides a chat window for generating text-based responses using GPT models.
 18. <a href="https://t.me/gpt_chatbot">M1guelpf/ChatGPT-Telegram</a>: A Telegram bot that generates text-based responses using GPT models for conversational agents.
